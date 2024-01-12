@@ -1,0 +1,169 @@
+body {
+    background-color: #E4EDF2;
+    font-family: 'Karla', sans-serif;
+    text-align: left;
+}
+
+#community {
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+#community h2 {
+    color: #2BB3B1;
+    font-size: 16px;
+}
+
+#community .cta {
+    color: #C5D932;
+}
+
+#community p {
+    color: gray;
+    line-height: 25px;
+}
+
+#subscription {
+    background-color: #2BB3B1;
+    margin: 0;
+    padding: 20px;
+}
+
+#subscription h2 {
+    color: #fff;
+    font-size: 16px;
+}
+
+#subscription .big-white-price {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+#subscription .grey {
+    color: grey;
+    padding-left: 7px;
+}
+
+#subscription p {
+    color: #fff;
+    font-size: 18px;
+}
+
+input[type=button] {
+    background-color: #C5D932;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    font-weight: 700;
+    cursor: pointer;
+    width: 270px;
+}
+
+#us {
+    background-color: #4EBFB4;
+    margin: 0;
+    padding: 20px;
+}
+
+#us h2 {
+    color: #fff;
+}
+
+#us p {
+    color: #fff;
+    line-height: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* =======================================================
+             DESKTOP STYLES
+   ======================================================= */
+@media only screen and (min-width: 1200px) {
+
+    /*Desktop styles here*/
+    body {
+        margin: 0;
+    }
+
+    main {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0px;
+    }
+
+    section {
+        flex: 1;
+        margin-bottom: 20px;
+    }
+
+    #community {
+        grid-column: span 2;
+    }
+
+    #community h2 {
+        font-size: 32px;
+    }
+
+    #community .cta {
+        font-size: 20px
+    }
+
+    #community p {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #subscription {
+        align-self: stretch;
+        height: 89%
+    }
+
+    #subscription h2 {
+        font-size: 25px;
+    }
+
+    #subscription p {
+        font-size: 25px;
+    }
+
+    input[type=button] {
+        background-color: #C5D932;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-transform: capitalize;
+        border: none;
+        outline: none;
+        font-size: 20px;
+        font-weight: 700;
+        cursor: pointer;
+        width: 400px;
+        height: 50px;
+    }
+
+    #us {
+        align-self: flex-start;
+    }
+
+    #us p {
+        line-height: 30px;
+    }
+
+    .content-wrapper {
+        padding: 20px;
+    }
+
+    footer {
+        text-align: center;
+        margin-top: 5px;
+    }
+}
