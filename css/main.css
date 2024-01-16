@@ -75,7 +75,7 @@ body {
     color: #fff;
 }
 
-#us p {
+#us li {
     color: #fff;
     line-height: 20px;
 }
@@ -136,7 +136,7 @@ footer {
         font-size: 25px;
     }
 
-    input[type=button] {
+    .button-link {
         background-color: #C5D932;
         color: #fff;
         padding: 10px 20px;
@@ -155,7 +155,7 @@ footer {
         align-self: flex-start;
     }
 
-    #us p {
+    #us li {
         line-height: 30px;
     }
 
