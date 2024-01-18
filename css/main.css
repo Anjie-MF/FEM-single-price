@@ -150,8 +150,7 @@ body {
 .button-link {
     background-color: #C5D932;
     color: #fff;
-    padding: 0.5em 7em;
-    /* Padding on top/bottom: 0.5em, left/right: 1em */
+    padding: 0.5em 2em; /* Padding on top/bottom: 0.5em, left/right: 1em */
     border-radius: 5px;
     text-transform: capitalize;
     border: none;
@@ -195,6 +194,19 @@ footer {
 
     .div1 {
         grid-column: span 2;
+    }
+
+    .button-link {
+        background-color: #C5D932;
+        color: #fff;
+        padding: 0.5em 7em; /* Padding on top/bottom: 0.5em, left/right: 1em */
+        border-radius: 5px;
+        text-transform: capitalize;
+        border: none;
+        outline: none;
+        font-weight: 700;
+        cursor: pointer;
+        text-decoration: none;
     }
 
     .div2 {
