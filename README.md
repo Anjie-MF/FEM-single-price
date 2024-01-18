@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://anjie-mf.github.io/FEM-single-price/)
+- Live Site URL: [LIVE](https://anjie-mf.github.io/FEM-single-price/)
 ## My process
 
 ### Built with
