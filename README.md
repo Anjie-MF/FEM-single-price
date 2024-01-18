@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [checkitout!](https://anjie-mf.github.io/FEM-single-price/)
+- Live Site URL: 
+
 ## My process
 
 ### Built with
@@ -40,12 +41,13 @@ Users should be able to:
  - Classes= styling flexibility and can be applied to multiple elements; IDs= reserved for unique identification and targeted scripting in JS & CSS  
  - When styling buttons or links, do not use width or height but padding (in em) 
  - Padding affects the space inside an element; margin affects the outside of an element
- - The basic building blocks on how to use CSS grid
+ - Truly how to use CSS grid; always set a max-width for larger screens; 
+ - Learning the pros and cons of defining media queries in em or rem vs px
 
 ### Useful resources
 
 - [gridbyexample](https://gridbyexample.com/) - amazing site by Rachel Andrew that laid out in b&w (no pun intended) the layout for the grid 
-- [ChatGPT](https://chat.openai.com/) - my go-to AI that helps explain the "why" behind the notes I receive from the code review 
+- [ChatGPT](https://chat.openai.com/) - my go-to AI that is helpful in explaining the "why" behind the notes I receive from the code review 
 - [Adobe Color](https://color.adobe.com/create/image) -  my go-to for when I need to extract color
 - [Responsive Test Tool](https://responsivetesttool.com/) -  another go-to that ensures the design is responsive across multiple screens
 
