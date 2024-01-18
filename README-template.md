@@ -42,7 +42,8 @@ Users should be able to:
  - Classes= styling flexibility and can be applied to multiple elements; IDs= reserved for unique identification and targeted scripting in JS & CSS  
  - When styling buttons or links, not to use width or height but padding (in em) 
  - Padding affects the space inside an element; margin affects the outside of an element
- - Truly how to use CSS grid
+ - Truly how to use CSS grid; always set a max-width for larger screens; 
+ - Learning the pros and cons of defining media queries in em or rem vs px
 
 ### Useful resources
 
