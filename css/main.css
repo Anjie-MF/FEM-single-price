@@ -103,6 +103,11 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-family: 'Karla', sans-serif;
+    color: #112A46;
+}
+
 .div1 {
     background-color: white;
 }
@@ -160,6 +165,21 @@ body {
     text-decoration: none;
 }
 
+.button-link:focus {
+    outline: 2px solid #fff; 
+    outline-offset: 5px; 
+}
+
+a {
+    text-decoration-skip-ink: auto;
+    color: currentColor;
+    outline: none; 
+}
+
+a:focus {
+    outline: auto; 
+}
+
 .div3 {
     background-color: #4EBFB4;
 }
@@ -185,11 +205,13 @@ footer {
    DESKTOP STYLE
    ========================================================================== */
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 48em) {
 
     main {
         display: grid;
         grid-template-columns: 1fr 1fr;
+        max-width: 60rem; /* Adjust the max-width according to your design */
+        margin: 0 auto; /* Center the grid */
     }
 
     .div1 {
