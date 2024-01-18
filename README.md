@@ -25,25 +25,29 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:  https://anjie-mf.github.io/FEM-single-price/
+- Live Site URL: 
+
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
 
 ### What I learned
- - Grid is defines the page structure with 2D layouts
- - Flexbox is ideal for aligning items within a component
- - Though they are strong indiviually, if the project calls for it, it's okay to combine them together. 
+ - To utilize the QA checklist that my boot camp taught us, the  HTML/CSS validator immediately caught my invalid code which would have saved me some valuable refactoring time 
+ - Classes= styling flexibility and can be applied to multiple elements; IDs= reserved for unique identification and targeted scripting in JS & CSS  
+ - When styling buttons or links, do not use width or height but padding (in em) 
+ - Padding affects the space inside an element; margin affects the outside of an element
+ - Truly how to use CSS grid; always set a max-width for larger screens; 
+ - Learning the pros and cons of defining media queries in em or rem vs px
 
 ### Useful resources
 
-- [SheCodes](https://www.shecodes.io/athena) - the AI is helfpul when I was learning how to add link to my button 
+- [gridbyexample](https://gridbyexample.com/) - amazing site by Rachel Andrew that laid out in b&w (no pun intended) the layout for the grid 
+- [ChatGPT](https://chat.openai.com/) - my go-to AI that is helfpul in explaining the "why" behind the notes I receieve from the code review 
 - [Adobe Color](https://color.adobe.com/create/image) -  my go-to for when I need to extract color
 - [Responsive Test Tool](https://responsivetesttool.com/) -  another go-to that ensures the design is responsive across multiple screens
 
