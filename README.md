@@ -25,14 +25,13 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [LIVE](https://anjie-mf.github.io/FEM-single-price/)
+- Live Site URL: [checkitout!](https://anjie-mf.github.io/FEM-single-price/)
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
 
@@ -41,7 +40,7 @@ Users should be able to:
  - Classes= styling flexibility and can be applied to multiple elements; IDs= reserved for unique identification and targeted scripting in JS & CSS  
  - When styling buttons or links, do not use width or height but padding (in em) 
  - Padding affects the space inside an element; margin affects the outside of an element
- - Truly how to use CSS grid
+ - The basic building blocks on how to use CSS grid
 
 ### Useful resources
 
