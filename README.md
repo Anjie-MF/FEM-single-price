@@ -47,7 +47,7 @@ Users should be able to:
 ### Useful resources
 
 - [gridbyexample](https://gridbyexample.com/) - amazing site by Rachel Andrew that laid out in b&w (no pun intended) the layout for the grid 
-- [ChatGPT](https://chat.openai.com/) - my go-to AI that is helpful in explaining the "why" behind the notes I receive from the code review 
+- [ChatGPT](https://chat.openai.com/) - my go-to AI that helps explain the "why" behind the notes I receive from the code review 
 - [Adobe Color](https://color.adobe.com/create/image) -  my go-to for when I need to extract color
 - [Responsive Test Tool](https://responsivetesttool.com/) -  another go-to that ensures the design is responsive across multiple screens
 
